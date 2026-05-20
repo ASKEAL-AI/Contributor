@@ -78,10 +78,3 @@ If a contributor profile is disabled or deleted, previous citations remain visib
 
 ---
 
-## 4. Related documentation
-
-The contributor system is documented across several complementary pages:
-
-- [contributing-to-askeal.md](./contributing-to-askeal.md) — contributor profiles, roles, permissions, onboarding flows, and contributor management.
-- [adding-contributions.md](./adding-contributions.md) — how contributors add manual or automated contributions and monitor their performance.
-- [manual-rag.md](./contribution-processing.md) — how manually added content is processed and used by Askeal’s AI.
