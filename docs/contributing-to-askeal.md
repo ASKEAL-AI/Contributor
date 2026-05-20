@@ -117,11 +117,3 @@ On approval:
 | Delete their contributor profiles | ❌ | ✅ |
 
 ---
-
-## 5. Related documentation
-
-The contributor system is documented across several complementary pages:
-
-- [contributing-to-askeal.md](./docs/contributing-to-askeal.md) — contributor profiles, roles, permissions, onboarding flows, and contributor management.
-- [adding-contributions.md](./docs/adding-contributions.md) — how contributors add manual or automated contributions and monitor their performance.
-- [contribution-processing.md](./docs/contribution-processing.md) — how manually added content is processed and used by Askeal’s AI.
